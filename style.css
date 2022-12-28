@@ -18,3 +18,13 @@ section {
 #k1 {
     background-color: #EEEEEE;
 }
+
+.btn {
+    background-color: #81b214;
+    color: white;
+    padding: 15px 30px;
+    border-radius: 50px;
+    display: inline-block;
+    margin-bottom: 230px;
+    margin-left: 20px;
+}
